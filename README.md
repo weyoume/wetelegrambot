@@ -1,4 +1,4 @@
-# Steepshot Telegram bot
+# WeYouMe Telegram bot
 
 This bot allows you to post photos to [Steepshot](<https://steepshot.io>) using your Steem-account.
 Click [here](<https://t.me/SteepshotBot>) to start posting your great pics!
